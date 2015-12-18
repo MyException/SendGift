@@ -77,6 +77,7 @@ public class MainActivity extends BaseActivity {
             case 1:
             setCeneteView(view_home);
                 break;
+
             case 2:
                 setCeneteView(view_two);
                 break;
