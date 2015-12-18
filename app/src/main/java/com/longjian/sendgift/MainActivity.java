@@ -4,6 +4,9 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
+/**
+ * 试试提交
+ */
 public class MainActivity extends BaseActivity {
     private View view_home;
     private View view_two;
@@ -77,7 +80,6 @@ public class MainActivity extends BaseActivity {
             case 1:
             setCeneteView(view_home);
                 break;
-
             case 2:
                 setCeneteView(view_two);
                 break;
